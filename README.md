@@ -28,18 +28,19 @@ Forma parte de la sesión 1 de Backend Introduction.
 
 ## Estructura del proyecto
 
+```bash
 flask_project/
 │── app.py
 │── static/
-│ ├── style.css
-│ └── script.js
+│   ├── style.css
+│   └── script.js
 │── templates/
-│ └── index.html
+│   └── index.html
 │── screenshots/
-│ ├── postman.png
-│ └── web.png
-
+│   ├── postman.png
+│   └── web.png
 ---
+```
 
 ## Evidencia del funcionamiento
 
